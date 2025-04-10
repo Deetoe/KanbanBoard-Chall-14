@@ -35,4 +35,4 @@ This project is licensed under the MIT license.
 
 ## Questions
 
-If you have any questions, please feel free to contact me at [dannygonzr20@gmail.com](mailto:dannygonzr20@gmail.com). You can also find more of my work at [https://github.com/revengelmfao](https://github.com/Deetoe).
+If you have any questions, please feel free to contact me at [dannygonzr20@gmail.com](mailto:dannygonzr20@gmail.com). You can also find more of my work at [https://github.com/Deetoe](https://github.com/Deetoe).
